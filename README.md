@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desarrollador de Aplicaciones Multiplataforma (DAM) especializado en la creación de soluciones backend robustas y aplicaciones móviles. Mi stack principal incluye Java (Spring Boot), PHP, Node.js y Flutter, con sólida experiencia en modelado y optimización de bases de datos relacionales y no relacionales (PostgreSQL, SQL, MongoDB). Orientado a escribir código limpio, escalable y mantenible, siempre en busca de nuevos retos tecnológicos y oportunidades para aportar valor en equipo.
+Cross-Platform Application Developer specialized in building robust backend solutions and mobile applications. My core stack includes Java (Spring Boot), PHP, Node.js, and Flutter, with solid experience in modeling and optimizing relational and non-relational databases (PostgreSQL, SQL, MongoDB). Focused on writing clean, scalable, and maintainable code, always looking for new tech challenges and opportunities to bring value to a team.
 
 
 ## 🌐 Socials:
@@ -11,8 +11,5 @@ Desarrollador de Aplicaciones Multiplataforma (DAM) especializado en la creació
 ![](https://github-readme-stats.shion.dev/api?username=jose712020&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=jose712020&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=jose712020&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://komarev.com/ghpvc/?username=jose712020&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
